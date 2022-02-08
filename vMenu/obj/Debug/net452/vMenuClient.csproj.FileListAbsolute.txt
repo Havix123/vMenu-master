@@ -1,0 +1,10 @@
+C:\Users\12059\Desktop\build\net452\vMenuClient.net.dll
+C:\Users\12059\Desktop\vMenu-master\vMenu\obj\Debug\net452\vMenuClient.csprojAssemblyReference.cache
+C:\Users\12059\Desktop\vMenu-master\vMenu\obj\Debug\net452\vMenuClient.net.g.resources
+C:\Users\12059\Desktop\vMenu-master\vMenu\obj\Debug\net452\vMenuClient.Properties.Resources.resources
+C:\Users\12059\Desktop\vMenu-master\vMenu\obj\Debug\net452\vMenuClient.csproj.GenerateResource.cache
+C:\Users\12059\Desktop\vMenu-master\vMenu\obj\Debug\net452\vMenuClient.AssemblyInfoInputs.cache
+C:\Users\12059\Desktop\vMenu-master\vMenu\obj\Debug\net452\vMenuClient.AssemblyInfo.cs
+C:\Users\12059\Desktop\vMenu-master\vMenu\obj\Debug\net452\vMenuClient.csproj.CoreCompileInputs.cache
+C:\Users\12059\Desktop\vMenu-master\vMenu\obj\Debug\net452\vMenuClient.csproj.CopyComplete
+C:\Users\12059\Desktop\vMenu-master\vMenu\obj\Debug\net452\vMenuClient.net.dll

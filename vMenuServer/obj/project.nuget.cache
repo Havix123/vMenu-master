@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KouVCsHqoV+/LPZ2JSVkR5EyKA/sT+ox2bhLc8CN3AkvunwhcTR374H+Msbc/nJckqey/fhgDuE4OPX66+7pnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\12059\\Desktop\\vMenu-master\\vMenuServer\\vMenuServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\12059\\.nuget\\packages\\citizenfx.core.server\\1.0.5049\\citizenfx.core.server.1.0.5049.nupkg.sha512"
+  ],
+  "logs": []
+}
